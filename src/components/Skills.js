@@ -24,10 +24,10 @@ class Skills extends React.Component{
                 paddingLeft: "20px" 
                 }}></span>
                 <h4><i>Database:</i></h4>
-                <span class="iconify" data-icon="cib:mysql" data-width="35" data-height="35" style={{
+                <span class="iconify" data-icon="cib:mysql" data-width="40" data-height="40" style={{
                 paddingLeft: "20px" 
                 }}></span>
-                <span class="iconify" data-icon="fa-brands:php" data-width="35" data-height="35" style={{
+                <span class="iconify" data-icon="fa-brands:php" data-width="40" data-height="40" style={{
                 paddingLeft: "20px" 
                 }}></span>
                 <h4><i>IDE:</i></h4>
