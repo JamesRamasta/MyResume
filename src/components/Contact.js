@@ -21,6 +21,7 @@ class Contact extends React.Component{
                 <br></br>
                 <span class="iconify" data-icon="bi:telephone" data-width="30" data-height="30"></span>
                 <kbd> +639756543221</kbd>
+                        
             
 
             
