@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/MyResume/static/js/main.adab0881.js",
+    "main.js": "/MyResume/static/js/main.bb02bb68.js",
     "static/media/balsamiq.png": "/MyResume/static/media/balsamiq.2fa0d4e52beec4407db9.png",
     "static/media/Me.jpg": "/MyResume/static/media/Me.79a625cd5d087654aaf3.jpg",
     "index.html": "/MyResume/index.html",
-    "main.adab0881.js.map": "/MyResume/static/js/main.adab0881.js.map"
+    "main.bb02bb68.js.map": "/MyResume/static/js/main.bb02bb68.js.map"
   },
   "entrypoints": [
-    "static/js/main.adab0881.js"
+    "static/js/main.bb02bb68.js"
   ]
 }
