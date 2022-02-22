@@ -10,7 +10,7 @@ class Education extends React.Component{
                 <tr>
                     <th>University of Santo Tomas<br></br>(2018 - Current)</th>
                     <td>Bachelor Science in Information Technology <br></br> 
-                    Specialization in Web and Mobile Development </td>                   
+                        Specialization in Web and Mobile Development </td>                   
                 </tr>
                 <br></br>
                 <tr>
