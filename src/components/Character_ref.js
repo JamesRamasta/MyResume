@@ -30,7 +30,7 @@ class Character_ref extends React.Component{
 
                     <pre style={{
                         fontSize: "15px",
-                    }}>     I hereby confirm that the above the information is true and correct to the best of my knowledge<br></br>
+                    }}>     I hereby confirm that the above information is true and correct to the best of my knowledge<br></br>
                      and belief.</pre> 
                     
                 
