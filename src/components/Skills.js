@@ -40,6 +40,9 @@ class Skills extends React.Component{
                 <span class="iconify" data-icon="mdi:android-studio" data-width="35" data-height="35" style={{
                 paddingLeft: "20px" 
                 }}></span>
+                <span class="iconify" data-icon="cib:eclipseide" data-width="35" data-height="35" style={{
+                paddingLeft: "20px" 
+                }}></span>
                 <h4><i>UX/UI:</i></h4>
                 <span class="iconify" data-icon="akar-icons:figma-fill" data-height="35" style={{
                 paddingLeft: "20px" 
