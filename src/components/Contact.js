@@ -6,9 +6,7 @@ class Contact extends React.Component{
         return (
             <div> 
 
-                <img src = {Img} border-radius = "50%" alt="person" align="right" width="220" height="220" 
-                style={{
-                }}/>
+                <img src = {Img} border-radius = "50%" alt="person" align="right" width="220" height="220" />
                 <br></br>
                 <br></br>
                 <br></br>

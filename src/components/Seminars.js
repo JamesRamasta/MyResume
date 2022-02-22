@@ -21,7 +21,9 @@ class Seminars extends React.Component{
                
                 <h3><u>CERTIFICATIONS:</u></h3>
                     <ul>
-                        <li>IT Certification (PHILNITS) Passer</li>
+                        <li>IT Certification (PHILNITS) Passer<br></br>
+                        (https://www.philnits.org/passers_IP2018.html#Oct2021IP)
+                        </li>
                     </ul>
                 <hr></hr>
             </div>
